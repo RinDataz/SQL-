@@ -1,28 +1,7 @@
-
-# SQL Projects and Exercises Repository
-
+SQL Projects and Exercises Repository
 Welcome to my SQL Projects and Exercises repository! This repository is a collection of SQL projects, exercises, and practice problems showcasing my skills in database design, data manipulation, and query optimization. Whether you're exploring SQL or looking to enhance your skills, this repository serves as both a portfolio and a valuable learning resource.
 
-## Contents
-
-1. **Projects**: Detailed SQL projects demonstrating database design, data manipulation, and query optimization.
-2. **Exercises**: SQL exercises ranging from beginner to advanced levels to improve SQL proficiency.
-3. **Resources**: Useful references and links for learning SQL, including documentation, tutorials, and recommended books.
-
-## Projects
-
-1. **Project Name 1**: Description of Project 1. (e.g., E-commerce Database Analysis)
-2. **Project Name 2**: Description of Project 2. (e.g., Social Media Data Management)
-3. **Project Name 3**: Description of Project 3. (e.g., Financial Transactions Monitoring)
-
-## Exercises
-
-- **Beginner Level**: Basic SQL queries, simple joins, and introductory data manipulation tasks.
-- **Intermediate Level**: Complex joins, subqueries, aggregations, and analytical functions.
-- **Advanced Level**: Query optimization, advanced data manipulation, and complex stored procedures.
-
-## Resources
-
-- **SQL Documentation**: Links to official documentation for various SQL databases such as MySQL, PostgreSQL, and SQLite.
-- **Tutorials**: Links to tutorials and courses useful for learning SQL.
-- **Books**: Recommendations for books on SQL and database management.
+Contents
+Projects: Detailed SQL projects demonstrating database design, data manipulation, and query optimization.
+Exercises: SQL exercises ranging from beginner to advanced levels to improve SQL proficiency.
+Resources: Useful references and links for learning SQL, including documentation, tutorials, and recommended books.
